@@ -8,12 +8,12 @@ public class Main {
     
         Product product1 = new Product();
         product1.setId("P001");
-        product1.setName("Televisor");
+        product1.setName("Celular");
         product1.setPrice(1500000);
         product1.setStock(40);
 
     
-        Product product2 = new Product("002", "Nevera", 24000000, 100);
+        Product product2 = new Product("002", "Tv", 24000000, 100);
 
         
         product2.setPrice(20.0);
