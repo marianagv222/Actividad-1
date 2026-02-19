@@ -21,4 +21,4 @@ Nombre producto 2: Mouse
 Stock producto 2: 120
 -------------------------
 Producto [ID: P001, Nombre: Laptop, Precio: 1200.0, Stock: 50]
-Producto [ID: P002, Nombre: Mouse, Precio: 20.0, Stock: 120]
+Producto [ID: P002, Nombre: Mouse, Precio: 20.0, Stock: 120]# Actividad-1
